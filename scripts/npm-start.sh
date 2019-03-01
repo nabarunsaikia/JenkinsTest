@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /testapp
+cd /home/ec2-user/testapp
 node index
